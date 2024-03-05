@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.cd{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: darkseagreen;
+    color: black;
+    text-transform:capitalize;
+    padding: 20px;
+}
+.cd .gh a{
+    text-decoration: none;
+    }
+.cd .gh a:hover{
+     color: brown;
+       }
+.ef{
+    background-image:url("inn.jpg.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

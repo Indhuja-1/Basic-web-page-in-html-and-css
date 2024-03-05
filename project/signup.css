@@ -1,0 +1,18 @@
+*{
+    margin-top: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.cd{
+    display: flex;
+    color:yellow;
+    text-transform: capitalize;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+    background-image: url("iii.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+}

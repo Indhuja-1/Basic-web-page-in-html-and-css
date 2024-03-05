@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.menu{
+    display: flex;
+    background-color: beige;
+    text-transform: capitalize;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+}
